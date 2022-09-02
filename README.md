@@ -1,2 +1,1 @@
-# guess-my-number
-Game created using HTML, CSS, and JavaScript
+This is a number guessing game created using HTML, CSS, and JavaScript. It looks good on desktop but not so much on smaller screens at this point. The deployed page can be found here: https://bshaw928.github.io/guess-my-number/
